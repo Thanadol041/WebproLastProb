@@ -1,5 +1,6 @@
 # WEEK10-EXERCISE
 File upload and DB transaction
+พ่อครับโฟลเดอร์ static เอาจากลิ้งอันแรกนะครับ
 
 ## Tutorial - File Upload and DB Transaction
 
